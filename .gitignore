@@ -1,0 +1,15 @@
+/node_modules
+/pip-suite-rest
+/pip-suite-split
+/pip-suite-pictures
+/pip-suite-documents
+/pip-suite-composite
+/pip-suite-tags
+/pip-suite-entry
+/pip-suite-settings
+/pip-suite-guidance
+/pip-suite-support
+/pip-suite-dashboard
+/pip-suite-map
+/pip-suite-all
+package-lock.json
